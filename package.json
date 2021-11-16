@@ -1,0 +1,17 @@
+{
+  "name": "aussiebum-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
